@@ -3,8 +3,7 @@
 <p>Welcome to my page! </br> I'm currently a software engineer. </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takehiro-1029&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![takehiro-1029's github stats](https://github-readme-stats.vercel.app/api?username=takehiro-1029&show_icons=true&theme=radical&hide=stars,issues)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=takehiro-1029&hide=stars,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
    
 <p align="left">
   <a href="https://github.com/takehiro-1029/takehiro-1029/">
