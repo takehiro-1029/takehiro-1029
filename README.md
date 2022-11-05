@@ -6,3 +6,5 @@
     <img height="20" src="https://img.shields.io/github/followers/takehiro-1029?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takehiro-1029&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
