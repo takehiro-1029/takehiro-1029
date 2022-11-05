@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm takehiro, backend engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Hyogo, Japan</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Kanagawa, Japan</b>. </p>
+<p>Welcome to my page! </br> I'm takehiro, backend engineer from <b>Hyogo, Japan</b>, currently living in <b>Tokyo, Japan</b>. </p>
 
 <p align="left">
   <a href="https://github.com/takehiro-1029/takehiro-1029/">
