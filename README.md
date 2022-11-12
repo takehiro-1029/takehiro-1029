@@ -27,8 +27,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=takehiro-1029&hide=stars,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takehiro-1029&layout=compact)
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takehiro-1029&hide=blade&langs_count=5&layout=compact)
+
 <p align="left">
   <a href="https://github.com/takehiro-1029/takehiro-1029/">
     <img src="https://komarev.com/ghpvc/?username=takehiro-1029" alt="takehiro-1029" />
